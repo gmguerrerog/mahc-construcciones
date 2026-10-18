@@ -1,6 +1,6 @@
 // Datos de contacto: edita aquí.
 const CONFIG = {
-  whatsapp: "56928482840", // sin "+" ni espacios
+  whatsapp: "56928402640", // sin "+" ni espacios
   greeting: "Hola MAHC, quiero cotizar un proyecto.",
   // Opcional: endpoint de Formspree/Getform (ej. "https://formspree.io/f/xxxx")
   // para recibir las cotizaciones también por correo. Vacío = solo WhatsApp.

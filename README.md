@@ -4,9 +4,9 @@ Sitio estático (HTML + CSS + JS, sin dependencias). Publica **el contenido de e
 
 ## Antes de publicar
 1. **Dominio**: reemplaza `https://www.mahcconstrucciones.cl/` en `index.html`, `robots.txt` y `sitemap.xml` por el dominio real.
-2. **Contacto**: WhatsApp +56 9 2848 2840 (en `CONFIG` de `script.js`), correo Mahcspa@gmail.com e Instagram @construcciones.mahc_spa (en `index.html`).
+2. **Contacto**: WhatsApp +56 9 2840 2640 (en `CONFIG` de `script.js`), correo Mahcspa@gmail.com e Instagram @construcciones.mahc_spa (en `index.html`).
 3. **Cotizaciones por correo (opcional)**: crea un formulario gratis en Formspree y pega la URL en `CONFIG.formEndpoint`. Sin eso, el formulario abre WhatsApp con la solicitud lista.
-4. **Logo**: `assets/img/logo-mark.svg` es una versión vectorial del isotipo. Si tienes el archivo original, reemplázalo con el mismo nombre.
+4. **Logo**: `assets/img/logo-mahc.png` (512 px) y `logo-mahc-192.webp` (encabezado y pie).
 
 ## SEO incluido
 Title y meta description con palabras clave locales, Open Graph, datos estructurados (GeneralContractor + FAQPage), textos alternativos en todas las fotos, imágenes WebP con carga diferida, `robots.txt` y `sitemap.xml`.

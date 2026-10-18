@@ -53,7 +53,8 @@ p { margin: 0 0 1em; }
 .brand__text strong { font: 800 1.45rem var(--font-head); color: var(--navy); letter-spacing: .02em; }
 .brand__text small { font: 600 .68rem var(--font-head); color: var(--navy); }
 .brand--light .brand__text strong, .brand--light .brand__text small { color: var(--white); }
-.brand--light img { background: var(--white); border-radius: 10px; padding: 4px; width: 54px; height: auto; }
+.brand img { border-radius: 50%; }
+.brand--light img { width: 62px; height: 62px; }
 .nav { display: flex; align-items: center; gap: 28px; }
 .nav a:not(.btn) { text-decoration: none; font-weight: 600; color: var(--navy); font-size: .95rem; }
 .nav a:not(.btn):hover { color: var(--blue); }
